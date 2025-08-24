@@ -19,6 +19,11 @@ A modern Windows launcher with AI integration, global hotkeys, and smart search 
 - Python 3.8+
 - PyQt6
 
+### Download The Latest Release
+```bash
+Currently AOI is pre-release
+```
+
 ### Quick Start
 1. Clone the repository:
 ```bash
@@ -130,3 +135,4 @@ If you encounter issues or have questions:
 ---
 
 **Enjoy using Aoi Launcher! 🚀**
+
